@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CrossJack" size="1.000000 0.642969" />
+    <ImageTarget name="BubaJack" size="1.000000 0.650000" />
+    <ImageTarget name="PeakJack" size="1.000000 0.639844" />
+    <ImageTarget name="RedJack" size="1.000000 1.536615" />
+  </Tracking>
+</QCARConfig>
